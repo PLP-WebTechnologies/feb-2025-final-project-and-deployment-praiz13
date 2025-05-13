@@ -52,4 +52,12 @@ A simple and responsive blog website focused on food, lifestyle, and living well
 ---
 
 ## 📁 Project Structure
+food-and-living/
+├── index.html            # Homepage with blog posts
+├── about.html            # About page
+├── contact.html          # Contact page
+├── style.css             # Styling for the blog
+├── script.js             # JavaScript interactivity
+└── assets/
+    └── images/           # Images for the blog
 
